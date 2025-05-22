@@ -1,4 +1,4 @@
-# Hi, I'm Srijan Kundu! 👋
+# Hi, I'm Srijan Kundu! 
 
 🎓 **B. Tech in Computer Science & Engineering**  
 KIIT Deemed to be University, Bhubaneswar, India
