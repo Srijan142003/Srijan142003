@@ -42,14 +42,6 @@ This tool is integrated into a medical application developed by my team, making 
 
 ---
 
-## 🏓 Fun Fact
-
-I’m also a **professional Table Tennis player**!  
-- Competed at multiple state and district tournaments  
-- Twice represented at the **national-level** 🏅
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/srijan-kundu-1355231a6/)
