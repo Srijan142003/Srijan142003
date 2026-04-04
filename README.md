@@ -18,6 +18,8 @@ KIIT Deemed to be University, Bhubaneswar, India
 🔍 **Optical Character Reader (OCR) for Medical Applications**  
 Recently, I developed an OCR system with **Gemini Flash 2.0** to extract and summarize prescriptions and medical reports.  
 This tool is integrated into a medical application developed by my team, making healthcare data more accessible and actionable.
+
+
 https://tensorflow.org/images/gan/dcgan.gif
 ---
 
