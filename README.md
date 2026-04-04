@@ -19,8 +19,8 @@ KIIT Deemed to be University, Bhubaneswar, India
 Recently, I developed an OCR system with **Gemini Flash 2.0** to extract and summarize prescriptions and medical reports.  
 This tool is integrated into a medical application developed by my team, making healthcare data more accessible and actionable.
 
+![dcgan](https://github.com/user-attachments/assets/b04dd5e2-72f2-4b9d-9ca1-181191f24702)
 
-https://tensorflow.org/images/gan/dcgan.gif
 ---
 
 ## 🛠️ Skills & Technologies
